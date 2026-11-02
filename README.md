@@ -36,9 +36,10 @@ Die App sucht selbst nach neuen Versionen und zeigt einen Hinweis an. Von Hand g
 - Sleep-Timer und einheitliche Lautstärke
 - Intros und Gerede in Musikvideos überspringen
 - Steuerung über Sperrbildschirm und Medientasten
+- Handy und PC synchronisieren: QR-Code scannen, ohne Internet und ohne Konto
 - Oberfläche auf Deutsch und Englisch
 
-**Gut zu wissen:** Handy und PC sind noch nicht miteinander verbunden. Songs und Playlists liegen auf jedem Gerät getrennt.
+**Gut zu wissen:** Zum Synchronisieren müssen beide Geräte im selben WLAN sein. Am PC zeigt die App den QR-Code, am Handy scannst du ihn unter **Einstellungen → Synchronisieren**.
 
 ---
 
